@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+user:
+  name: Dima
+  age: 22

@@ -1,0 +1,6 @@
+server:
+  port: 8082
+my:
+  name: Eugenio
+  email: d@gmail.com
+  age: 55
